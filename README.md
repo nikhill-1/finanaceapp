@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Personal Finance Web App
 
 This is a personal finance application that allows users to link their bank account via the Plaid API. Current functionality includes basic authentication via JSON Web Token, and the addition, deletion, and refreshing of a bank account. The application will display the user's account balances and transactions. Note that this project is a work in progress - more features are planned to be implemented in the future.
@@ -81,3 +82,6 @@ Note that the application exposes the user's `access_tokens` and `item_ids` to t
 From the Plaid API documentation:
 
 > access_tokens and item_ids are the core identifiers that map your end-users to their financial institutions. You should persist these securely and associate them with users of your application. Make sure, however, that these identifiers are never exposed client-side. Keep in mind that one user can create multiple Items if they have accounts with multiple financial institutions.
+=======
+# finanaceapp
+>>>>>>> 02b8e7f209da7cab7aa5532f3f338d5f66d9b7c4
